@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>shallwe</title>
+  
+  <subtitle>小V的个人站点</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2020-03-30T11:09:07.508Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>shallwe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://yoursite.com/2019/12/03/article/"/>
+    <id>http://yoursite.com/2019/12/03/article/</id>
+    <published>2019-12-03T02:57:31.000Z</published>
+    <updated>2020-03-30T11:09:07.508Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="只是测试一下"><a href="#只是测试一下" class="headerlink" title="只是测试一下"></a>只是测试一下</h2>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;只是测试一下&quot;&gt;&lt;a href=&quot;#只是测试一下&quot; class=&quot;headerlink&quot; title=&quot;只是测试一下&quot;&gt;&lt;/a&gt;只是测试一下&lt;/h2&gt;
+      
+    
+    </summary>
+    
+    
+    
+      <category term="测试" scheme="http://yoursite.com/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>递归组件树的考虑</title>
+    <link href="http://yoursite.com/2019/12/02/hello-world/"/>
+    <id>http://yoursite.com/2019/12/02/hello-world/</id>
+    <published>2019-12-02T02:57:31.000Z</published>
+    <updated>2020-03-30T11:01:29.460Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="事件传递"><a href="#事件传递" class="headerlink" title="事件传递"></a>事件传递</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><h2 id="层级样式控制"><a href="#层级样式控制" class="headerlink" title="层级样式控制"></a>层级样式控制</h2><h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><ol><li>事件传递</li><li>层级样式控制</li><li>实现方式</li></ol><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;事件传递&quot;&gt;&lt;a href=&quot;#事件传递&quot; class=&quot;headerlink&quot; title=&quot;事件传递&quot;&gt;&lt;/a&gt;事件传递&lt;/h2&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre
+      
+    
+    </summary>
+    
+    
+    
+      <category term="算法" scheme="http://yoursite.com/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="最大存水量" scheme="http://yoursite.com/tags/%E6%9C%80%E5%A4%A7%E5%AD%98%E6%B0%B4%E9%87%8F/"/>
+    
+  </entry>
+  
+</feed>
