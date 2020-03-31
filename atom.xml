@@ -47,7 +47,7 @@
     <published>2019-12-02T02:57:31.000Z</published>
     <updated>2020-03-30T11:01:29.460Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="事件传递"><a href="#事件传递" class="headerlink" title="事件传递"></a>事件传递</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span></pre></td></tr></table></figure><h2 id="层级样式控制"><a href="#层级样式控制" class="headerlink" title="层级样式控制"></a>层级样式控制</h2><h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><ol><li>事件传递</li><li>层级样式控制</li><li>实现方式</li></ol><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="事件传递"><a href="#事件传递" class="headerlink" title="事件传递"></a>事件传递</h2><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><h2 id="层级样式控制"><a href="#层级样式控制" class="headerlink" title="层级样式控制"></a>层级样式控制</h2><h2 id="实现方式"><a href="#实现方式" class="headerlink" title="实现方式"></a>实现方式</h2><ol><li>事件传递</li><li>层级样式控制</li><li>实现方式</li></ol><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>]]></content>
     
     <summary type="html">
     
